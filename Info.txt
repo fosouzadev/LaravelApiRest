@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=oVRWQJE5a1c
+
+# criar projeto
+    laravel new nomeProjeto
+
+# executar projeto
+    cd nomeProjeto
+    php artisan serve
